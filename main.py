@@ -2,6 +2,7 @@ from voice import Voice
 import speech_recognition as sr
 from commandfactory import CommandFactory
 
+#dkdljf
 r = sr.Recognizer()
 mic = sr.Microphone()
 
