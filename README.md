@@ -10,6 +10,8 @@ list of speech commands is listed below, along with their corresponding
 terminal commands. Furthermore, extending this program to include 
 additional commands is straightforward to carry out. Enjoy!
 
+Created by Shuwen Yue and Jeffrey Young for HackPrinceton2018
+
 ------------------------
 Requirements
 ------------------------
